@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Literal
 from abc import ABC, abstractmethod
 
 from compare_2_courses.schemas.course_content.video import CourseVideo
@@ -8,19 +8,18 @@ from compare_2_courses.schemas.course_content.course_material import CourseMater
 from compare_2_courses.schemas.learning_platform import LearningPlatform
 
 
+COURSE_MATERIAL_TYPE = Literal["VIDEO", "TEST", "READING"]
+
+
 class CoursePlatformScraper(ABC):
     learning_platform: LearningPlatform
 
     @abstractmethod
-    def get_course_videos(self) -> List[CourseVideo]: ...
+    def detect_material_type(self) -> COURSE_MATERIAL_TYPE: ...
     @abstractmethod
-    def get_course_readings(self) -> List[CourseReading]: ...
-    @abstractmethod
-    def get_course_tests(self) -> List[CourseTest]: ...
+    def access(self) -> None:
+        """Request the URL, to get the HTML"""
+        ...
 
-    def get_course_materials(self) -> List[CourseMaterial]:
-        return (
-            self.get_course_readings()
-            + self.get_course_tests()
-            + self.get_course_videos()
-        )
+    @abstractmethod
+    def get_course_materials(self) -> List[CourseMaterial]: ...

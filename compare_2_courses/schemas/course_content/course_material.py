@@ -3,9 +3,9 @@ from pydantic import BaseModel, HttpUrl
 
 
 class CourseMaterial(BaseModel):
-    material_url: HttpUrl
-    title: Optional[str]
-    description: Optional[str]
+    material_url: Optional[HttpUrl] = None
+    title: Optional[str] = None
+    description: Optional[str] = None
     learning_order: int
 
     def is_same(self, other_material: "CourseMaterial") -> bool:

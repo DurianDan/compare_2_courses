@@ -8,7 +8,15 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 pydantic = "^2.6.4"
+lxml = "^5.1.0"
+requests = "^2.31.0"
+selenium = "^4.18.1"
+selenium-wire = "^5.1.0"
+undetected-chromedriver = "^3.5.5"
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.3"
 
 [build-system]
 requires = ["poetry-core"]

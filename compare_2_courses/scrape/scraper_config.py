@@ -1,6 +1,6 @@
-from pydantic import BaseModel
-from compare_2_courses.schemas.course import Course
+from pydantic import BaseModel, HttpUrl
+from compare_2_courses.schemas.learning_platform import LearningPlatform
 
 class ScraperConfig(BaseModel):
-    course_config: Course
+    course_landing_page: HttpUrl
     

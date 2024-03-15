@@ -34,3 +34,10 @@ ULTIMATE_AWS_NEW_2024_SCS_C02 = Course(
     title="Ultimate AWS Certified Security Specialty [NEW 2024] SCS-C02",
     learning_platform=UDEMY_LEARNING_PLATFORM,
 )
+
+DEFAULT_CHROME_SELENIUM_OPTIONS = [
+    "--incognito"
+    , '--ignore-ssl-errors=yes'
+    , '--ignore-certificate-errors'
+    #, "--headless"
+]

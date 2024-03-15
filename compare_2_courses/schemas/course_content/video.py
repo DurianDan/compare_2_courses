@@ -3,7 +3,7 @@ from typing import Optional
 
 
 class CourseVideo(CourseMaterial):
-    size_mb: Optional[int]
+    size_mb: Optional[int] = None
     length_seconds: int
 
     def is_same(self, other_material: "CourseVideo") -> bool:
