@@ -8,20 +8,19 @@ from compare_2_courses.schemas.course_content.course_material import CourseMater
 from compare_2_courses.schemas.learning_platform import LearningPlatform
 
 
-
 class CoursePlatformScraper(ABC):
     learning_platform: LearningPlatform
 
     @abstractmethod
-    def get_course_materials() -> List[CourseMaterial]:
-        ...
+    def get_course_videos(self) -> List[CourseVideo]: ...
+    @abstractmethod
+    def get_course_readings(self) -> List[CourseReading]: ...
+    @abstractmethod
+    def get_course_tests(self) -> List[CourseTest]: ...
 
-    @abstractmethod
-    def get_course_videos() -> List[CourseVideo]:
-        ...
-    @abstractmethod
-    def get_course_readings() -> List[CourseReading]:
-        ...
-    @abstractmethod
-    def get_course_tests() -> List[CourseTest]:
-        ...
+    def get_course_materials(self) -> List[CourseMaterial]:
+        return (
+            self.get_course_readings()
+            + self.get_course_tests()
+            + self.get_course_videos()
+        )
