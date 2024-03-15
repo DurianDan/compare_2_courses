@@ -1,0 +1,2302 @@
+{
+  "landing_page": "https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/",
+  "title": "AWS Certified DevOps Engineer Professional 2024 - DOP-C02",
+  "learning_platform": {
+    "landing_page": "https://udemy.com/",
+    "name": "Udemy"
+  },
+  "materials": [
+    {
+      "material_url": null,
+      "title": "Course Overview - AWS Certified DevOps Engineer Professional",
+      "description": null,
+      "learning_order": 1,
+      "size_mb": null,
+      "length_seconds": 65,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Course Readiness",
+      "description": null,
+      "learning_order": 2,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "About your instructor",
+      "description": null,
+      "learning_order": 3,
+      "size_mb": null,
+      "length_seconds": 165,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Note: other courses abbreviations",
+      "description": null,
+      "learning_order": 4,
+      "material_type": "READING"
+    },
+    {
+      "material_url": null,
+      "title": "Code & Slides Download",
+      "description": null,
+      "learning_order": 5,
+      "material_type": "READING"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Introduction to CICD in AWS",
+      "description": null,
+      "learning_order": 6,
+      "size_mb": null,
+      "length_seconds": 339,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodeCommit - Overview",
+      "description": null,
+      "learning_order": 7,
+      "size_mb": null,
+      "length_seconds": 252,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodeCommit - Hands On Part 1",
+      "description": null,
+      "learning_order": 8,
+      "size_mb": null,
+      "length_seconds": 385,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodeCommit - Hands On Part 2",
+      "description": null,
+      "learning_order": 9,
+      "size_mb": null,
+      "length_seconds": 355,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CodeCommit - Advanced",
+      "description": null,
+      "learning_order": 10,
+      "size_mb": null,
+      "length_seconds": 317,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodePipeline - Overview",
+      "description": null,
+      "learning_order": 11,
+      "size_mb": null,
+      "length_seconds": 236,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodePipeline - Hands On - Prerequisite",
+      "description": null,
+      "learning_order": 12,
+      "size_mb": null,
+      "length_seconds": 127,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodePipeline - Hands On",
+      "description": null,
+      "learning_order": 13,
+      "size_mb": null,
+      "length_seconds": 599,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodePipeline - Extras",
+      "description": null,
+      "learning_order": 14,
+      "size_mb": null,
+      "length_seconds": 274,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CodePipeline - CloudFormation Integration",
+      "description": null,
+      "learning_order": 15,
+      "size_mb": null,
+      "length_seconds": 221,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CodePipeline - Advanced",
+      "description": null,
+      "learning_order": 16,
+      "size_mb": null,
+      "length_seconds": 395,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CodeBuild - Overview",
+      "description": null,
+      "learning_order": 17,
+      "size_mb": null,
+      "length_seconds": 341,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodeBuild - Hands On Part 1",
+      "description": null,
+      "learning_order": 18,
+      "size_mb": null,
+      "length_seconds": 289,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodeBuild - Hands On Part 2",
+      "description": null,
+      "learning_order": 19,
+      "size_mb": null,
+      "length_seconds": 555,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CodeBuild - Advanced",
+      "description": null,
+      "learning_order": 20,
+      "size_mb": null,
+      "length_seconds": 447,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodeDeploy - Overview",
+      "description": null,
+      "learning_order": 21,
+      "size_mb": null,
+      "length_seconds": 495,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CodeDeploy - EC2 Deep Dive",
+      "description": null,
+      "learning_order": 22,
+      "size_mb": null,
+      "length_seconds": 662,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CodeDeploy - ECS Deep Dive",
+      "description": null,
+      "learning_order": 23,
+      "size_mb": null,
+      "length_seconds": 355,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CodeDeploy - Lambda Deep Dive",
+      "description": null,
+      "learning_order": 24,
+      "size_mb": null,
+      "length_seconds": 179,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CodeDeploy - Rollbacks & Troubleshooting",
+      "description": null,
+      "learning_order": 25,
+      "size_mb": null,
+      "length_seconds": 221,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodeArtifact - Overview",
+      "description": null,
+      "learning_order": 26,
+      "size_mb": null,
+      "length_seconds": 361,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodeArtifact - Upstream Repositories & Domains",
+      "description": null,
+      "learning_order": 27,
+      "size_mb": null,
+      "length_seconds": 354,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodeArtifact - Hands On",
+      "description": null,
+      "learning_order": 28,
+      "size_mb": null,
+      "length_seconds": 384,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CodeGuru - Overview",
+      "description": null,
+      "learning_order": 29,
+      "size_mb": null,
+      "length_seconds": 202,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CodeGuru - Extras",
+      "description": null,
+      "learning_order": 30,
+      "size_mb": null,
+      "length_seconds": 113,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "EC2 Image Builder",
+      "description": null,
+      "learning_order": 31,
+      "size_mb": null,
+      "length_seconds": 186,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "EC2 Image Builder - Extras",
+      "description": null,
+      "learning_order": 32,
+      "size_mb": null,
+      "length_seconds": 119,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] AWS Amplify",
+      "description": null,
+      "learning_order": 33,
+      "size_mb": null,
+      "length_seconds": 119,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Amplify - Extras",
+      "description": null,
+      "learning_order": 34,
+      "size_mb": null,
+      "length_seconds": 64,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Overview",
+      "description": null,
+      "learning_order": 35,
+      "size_mb": null,
+      "length_seconds": 342,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Create Stack - Hands On",
+      "description": null,
+      "learning_order": 36,
+      "size_mb": null,
+      "length_seconds": 404,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Update & Delete Stack - Hands On",
+      "description": null,
+      "learning_order": 37,
+      "size_mb": null,
+      "length_seconds": 443,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] YAML Crash Course",
+      "description": null,
+      "learning_order": 38,
+      "size_mb": null,
+      "length_seconds": 191,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Resources",
+      "description": null,
+      "learning_order": 39,
+      "size_mb": null,
+      "length_seconds": 339,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Parameters",
+      "description": null,
+      "learning_order": 40,
+      "size_mb": null,
+      "length_seconds": 406,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Mappings",
+      "description": null,
+      "learning_order": 41,
+      "size_mb": null,
+      "length_seconds": 141,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Outputs & Exports",
+      "description": null,
+      "learning_order": 42,
+      "size_mb": null,
+      "length_seconds": 145,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Conditions",
+      "description": null,
+      "learning_order": 43,
+      "size_mb": null,
+      "length_seconds": 115,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Intrinsic Functions",
+      "description": null,
+      "learning_order": 44,
+      "size_mb": null,
+      "length_seconds": 301,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Rollbacks",
+      "description": null,
+      "learning_order": 45,
+      "size_mb": null,
+      "length_seconds": 359,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Service Role",
+      "description": null,
+      "learning_order": 46,
+      "size_mb": null,
+      "length_seconds": 201,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Capabilities",
+      "description": null,
+      "learning_order": 47,
+      "size_mb": null,
+      "length_seconds": 160,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Deletion Policy",
+      "description": null,
+      "learning_order": 48,
+      "size_mb": null,
+      "length_seconds": 317,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Stack Policy",
+      "description": null,
+      "learning_order": 49,
+      "size_mb": null,
+      "length_seconds": 84,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Termination Protection",
+      "description": null,
+      "learning_order": 50,
+      "size_mb": null,
+      "length_seconds": 73,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Custom Resources",
+      "description": null,
+      "learning_order": 51,
+      "size_mb": null,
+      "length_seconds": 156,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CloudFormation - Custom Resources - Hands On",
+      "description": null,
+      "learning_order": 52,
+      "size_mb": null,
+      "length_seconds": 430,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudFormation - Dynamic References",
+      "description": null,
+      "learning_order": 53,
+      "size_mb": null,
+      "length_seconds": 271,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] CloudFormation - User Data",
+      "description": null,
+      "learning_order": 54,
+      "size_mb": null,
+      "length_seconds": 259,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] CloudFormation - cfn-init",
+      "description": null,
+      "learning_order": 55,
+      "size_mb": null,
+      "length_seconds": 461,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] CloudFormation - cfn-signal & Wait Condition",
+      "description": null,
+      "learning_order": 56,
+      "size_mb": null,
+      "length_seconds": 321,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] CloudFormation - cfn-signal Failures",
+      "description": null,
+      "learning_order": 57,
+      "size_mb": null,
+      "length_seconds": 274,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] CloudFormation - Nested Stacks",
+      "description": null,
+      "learning_order": 58,
+      "size_mb": null,
+      "length_seconds": 485,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] CloudFormation - Depends On",
+      "description": null,
+      "learning_order": 59,
+      "size_mb": null,
+      "length_seconds": 199,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "StackSets - Warning",
+      "description": null,
+      "learning_order": 60,
+      "material_type": "READING"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] CloudFormation - StackSets",
+      "description": null,
+      "learning_order": 61,
+      "size_mb": null,
+      "length_seconds": 209,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] CloudFormation - Create StackSets - Hands On",
+      "description": null,
+      "learning_order": 62,
+      "size_mb": null,
+      "length_seconds": 707,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] CloudFormation - Update StackSets - Hands On",
+      "description": null,
+      "learning_order": 63,
+      "size_mb": null,
+      "length_seconds": 66,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] CloudFormation - Delete StackSets - Hands On",
+      "description": null,
+      "learning_order": 64,
+      "size_mb": null,
+      "length_seconds": 132,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] CloudFormation - Troubleshooting",
+      "description": null,
+      "learning_order": 65,
+      "size_mb": null,
+      "length_seconds": 195,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CloudFormation - ChangeSets",
+      "description": null,
+      "learning_order": 66,
+      "size_mb": null,
+      "length_seconds": 153,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CloudFormation - cfn-hup",
+      "description": null,
+      "learning_order": 67,
+      "size_mb": null,
+      "length_seconds": 342,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CloudFormation - Drift",
+      "description": null,
+      "learning_order": 68,
+      "size_mb": null,
+      "length_seconds": 331,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Service Catalog - Overview",
+      "description": null,
+      "learning_order": 69,
+      "size_mb": null,
+      "length_seconds": 257,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Service Catalog - Extras",
+      "description": null,
+      "learning_order": 70,
+      "size_mb": null,
+      "length_seconds": 168,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Elastic Beanstalk - Overview",
+      "description": null,
+      "learning_order": 71,
+      "size_mb": null,
+      "length_seconds": 310,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Elastic Beanstalk - Hands On",
+      "description": null,
+      "learning_order": 72,
+      "size_mb": null,
+      "length_seconds": 523,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Elastic Beanstalk - High Availability Environment",
+      "description": null,
+      "learning_order": 73,
+      "size_mb": null,
+      "length_seconds": 433,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Elastic Beanstalk - Deployment Modes",
+      "description": null,
+      "learning_order": 74,
+      "size_mb": null,
+      "length_seconds": 699,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Elastic Beanstalk - Deployment Modes Hands On",
+      "description": null,
+      "learning_order": 75,
+      "size_mb": null,
+      "length_seconds": 515,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Elastic Beanstalk - Extras",
+      "description": null,
+      "learning_order": 76,
+      "size_mb": null,
+      "length_seconds": 154,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Serverless Application Model (SAM) - Overview",
+      "description": null,
+      "learning_order": 77,
+      "size_mb": null,
+      "length_seconds": 246,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Serverless Application Model (SAM) with CodeDeploy",
+      "description": null,
+      "learning_order": 78,
+      "size_mb": null,
+      "length_seconds": 606,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Cloud Development Kit (CDK) - Overview",
+      "description": null,
+      "learning_order": 79,
+      "size_mb": null,
+      "length_seconds": 291,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Cloud Development Kit (CDK) - Hands On",
+      "description": null,
+      "learning_order": 80,
+      "size_mb": null,
+      "length_seconds": 693,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Step Functions - Overview",
+      "description": null,
+      "learning_order": 81,
+      "size_mb": null,
+      "length_seconds": 299,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Step Functions - Hands On",
+      "description": null,
+      "learning_order": 82,
+      "size_mb": null,
+      "length_seconds": 333,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Step Functions - Invoke Lambda - Hands On",
+      "description": null,
+      "learning_order": 83,
+      "size_mb": null,
+      "length_seconds": 283,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] AppConfig - Overview",
+      "description": null,
+      "learning_order": 84,
+      "size_mb": null,
+      "length_seconds": 164,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] Systems Manager (SSM) - Overview",
+      "description": null,
+      "learning_order": 85,
+      "size_mb": null,
+      "length_seconds": 227,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] Start EC2 Instances with SSM Agent - Hands On",
+      "description": null,
+      "learning_order": 86,
+      "size_mb": null,
+      "length_seconds": 211,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] AWS Tags & SSM Resource Groups",
+      "description": null,
+      "learning_order": 87,
+      "size_mb": null,
+      "length_seconds": 264,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] SSM Documents & SSM Run Command",
+      "description": null,
+      "learning_order": 88,
+      "size_mb": null,
+      "length_seconds": 692,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] SSM Automations",
+      "description": null,
+      "learning_order": 89,
+      "size_mb": null,
+      "length_seconds": 429,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] SSM Parameter Store",
+      "description": null,
+      "learning_order": 90,
+      "size_mb": null,
+      "length_seconds": 256,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] SSM Parameter Store - Hands On",
+      "description": null,
+      "learning_order": 91,
+      "size_mb": null,
+      "length_seconds": 431,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] SSM Patch Manager and Maintenance Windows",
+      "description": null,
+      "learning_order": 92,
+      "size_mb": null,
+      "length_seconds": 285,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] SSM Patch Manager and Maintenance Windows - Hands On",
+      "description": null,
+      "learning_order": 93,
+      "size_mb": null,
+      "length_seconds": 215,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] SSM Session Manager",
+      "description": null,
+      "learning_order": 94,
+      "size_mb": null,
+      "length_seconds": 167,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] SSM Session Manager - Hands On",
+      "description": null,
+      "learning_order": 95,
+      "size_mb": null,
+      "length_seconds": 145,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] SSM Cleanup",
+      "description": null,
+      "learning_order": 96,
+      "size_mb": null,
+      "length_seconds": 20,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SSM Default Host Management Configuration (DHMC)",
+      "description": null,
+      "learning_order": 97,
+      "size_mb": null,
+      "length_seconds": 110,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SSM Default Host Management Configuration (DHMC) - Hands On",
+      "description": null,
+      "learning_order": 98,
+      "size_mb": null,
+      "length_seconds": 273,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SSM Hybrid Environments",
+      "description": null,
+      "learning_order": 99,
+      "size_mb": null,
+      "length_seconds": 97,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SSM Hybrid Environments - Hands On",
+      "description": null,
+      "learning_order": 100,
+      "size_mb": null,
+      "length_seconds": 194,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SSM with IoT Greengrass",
+      "description": null,
+      "learning_order": 101,
+      "size_mb": null,
+      "length_seconds": 108,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SSM Automations - Use Cases",
+      "description": null,
+      "learning_order": 102,
+      "size_mb": null,
+      "length_seconds": 131,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SSM Compliance",
+      "description": null,
+      "learning_order": 103,
+      "size_mb": null,
+      "length_seconds": 51,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SSM OpsCenter",
+      "description": null,
+      "learning_order": 104,
+      "size_mb": null,
+      "length_seconds": 118,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SSM Session Manager with VPC Endpoints",
+      "description": null,
+      "learning_order": 105,
+      "size_mb": null,
+      "length_seconds": 100,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS OpsWorks - Getting Started Part 1",
+      "description": null,
+      "learning_order": 106,
+      "size_mb": null,
+      "length_seconds": 550,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS OpsWorks - Getting Started Part 2",
+      "description": null,
+      "learning_order": 107,
+      "size_mb": null,
+      "length_seconds": 480,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS OpsWorks - Lifecycle Events",
+      "description": null,
+      "learning_order": 108,
+      "size_mb": null,
+      "length_seconds": 352,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS OpsWorks - CloudWatch Events Integration",
+      "description": null,
+      "learning_order": 109,
+      "size_mb": null,
+      "length_seconds": 123,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS OpsWorks - Summary & Cleanup",
+      "description": null,
+      "learning_order": 110,
+      "size_mb": null,
+      "length_seconds": 119,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Lambda - Versions and Aliases",
+      "description": null,
+      "learning_order": 111,
+      "size_mb": null,
+      "length_seconds": 184,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Lambda - Versions and Aliases Hands On",
+      "description": null,
+      "learning_order": 112,
+      "size_mb": null,
+      "length_seconds": 347,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Lambda - Environment Variables",
+      "description": null,
+      "learning_order": 113,
+      "size_mb": null,
+      "length_seconds": 47,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Lambda - Environment Variables Hands On",
+      "description": null,
+      "learning_order": 114,
+      "size_mb": null,
+      "length_seconds": 162,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] Lambda - Concurrency",
+      "description": null,
+      "learning_order": 115,
+      "size_mb": null,
+      "length_seconds": 361,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] Lambda - Concurrency Hands On",
+      "description": null,
+      "learning_order": 116,
+      "size_mb": null,
+      "length_seconds": 159,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] Lambda - File Systems Mounting",
+      "description": null,
+      "learning_order": 117,
+      "size_mb": null,
+      "length_seconds": 216,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Lambda - Cross-Account File Systems Mounting",
+      "description": null,
+      "learning_order": 118,
+      "size_mb": null,
+      "length_seconds": 61,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] API Gateway - Overview",
+      "description": null,
+      "learning_order": 119,
+      "size_mb": null,
+      "length_seconds": 397,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] API Gateway - Hands On",
+      "description": null,
+      "learning_order": 120,
+      "size_mb": null,
+      "length_seconds": 619,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] API Gateway - Stages and Deployment",
+      "description": null,
+      "learning_order": 121,
+      "size_mb": null,
+      "length_seconds": 241,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] API Gateway - Stages and Deployment Hands On",
+      "description": null,
+      "learning_order": 122,
+      "size_mb": null,
+      "length_seconds": 501,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] API Gateway - Open API",
+      "description": null,
+      "learning_order": 123,
+      "size_mb": null,
+      "length_seconds": 171,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] API Gateway - Open API Hands On",
+      "description": null,
+      "learning_order": 124,
+      "size_mb": null,
+      "length_seconds": 108,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] API Gateway - Caching",
+      "description": null,
+      "learning_order": 125,
+      "size_mb": null,
+      "length_seconds": 248,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] API Gateway - Canary Deployments",
+      "description": null,
+      "learning_order": 126,
+      "size_mb": null,
+      "length_seconds": 77,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] API Gateway - Canary Deployments Hands On",
+      "description": null,
+      "learning_order": 127,
+      "size_mb": null,
+      "length_seconds": 228,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] API Gateway - Monitoring, Logging and Tracing",
+      "description": null,
+      "learning_order": 128,
+      "size_mb": null,
+      "length_seconds": 303,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] Amazon ECS - Overview",
+      "description": null,
+      "learning_order": 129,
+      "size_mb": null,
+      "length_seconds": 403,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] Amazon ECS - Auto Scaling",
+      "description": null,
+      "learning_order": 130,
+      "size_mb": null,
+      "length_seconds": 201,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] Amazon ECS - Solutions Architectures",
+      "description": null,
+      "learning_order": 131,
+      "size_mb": null,
+      "length_seconds": 189,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon ECS - Logging",
+      "description": null,
+      "learning_order": 132,
+      "size_mb": null,
+      "length_seconds": 157,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] Amazon ECR - Overview",
+      "description": null,
+      "learning_order": 133,
+      "size_mb": null,
+      "length_seconds": 98,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon ECR - Extras",
+      "description": null,
+      "learning_order": 134,
+      "size_mb": null,
+      "length_seconds": 141,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] Amazon EKS - Overview",
+      "description": null,
+      "learning_order": 135,
+      "size_mb": null,
+      "length_seconds": 238,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon EKS - Logging",
+      "description": null,
+      "learning_order": 136,
+      "size_mb": null,
+      "length_seconds": 88,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] Amazon Kinesis - Overview",
+      "description": null,
+      "learning_order": 137,
+      "size_mb": null,
+      "length_seconds": 76,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] Kinesis Data Streams - Overview",
+      "description": null,
+      "learning_order": 138,
+      "size_mb": null,
+      "length_seconds": 356,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] Kinesis Data Streams - Hands On",
+      "description": null,
+      "learning_order": 139,
+      "size_mb": null,
+      "length_seconds": 578,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Kinesis Data Streams - Consumers Scaling",
+      "description": null,
+      "learning_order": 140,
+      "size_mb": null,
+      "length_seconds": 78,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] Kinesis Data Firehose - Overview",
+      "description": null,
+      "learning_order": 141,
+      "size_mb": null,
+      "length_seconds": 315,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] Kinesis Data Firehose - Hands On",
+      "description": null,
+      "learning_order": 142,
+      "size_mb": null,
+      "length_seconds": 472,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] Kinesis Data Analytics - Overview",
+      "description": null,
+      "learning_order": 143,
+      "size_mb": null,
+      "length_seconds": 213,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA] Kinesis Data Analytics - Hands On",
+      "description": null,
+      "learning_order": 144,
+      "size_mb": null,
+      "length_seconds": 123,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Kinesis Data Analytics - Using Machine Learning",
+      "description": null,
+      "learning_order": 145,
+      "size_mb": null,
+      "length_seconds": 106,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Route 53 - Overview",
+      "description": null,
+      "learning_order": 146,
+      "size_mb": null,
+      "length_seconds": 378,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Route 53 - Routing Policy - Weighted",
+      "description": null,
+      "learning_order": 147,
+      "size_mb": null,
+      "length_seconds": 302,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Route 53 - Routing Policy - Latency",
+      "description": null,
+      "learning_order": 148,
+      "size_mb": null,
+      "length_seconds": 279,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Route 53 - Routing Policy - Failover",
+      "description": null,
+      "learning_order": 149,
+      "size_mb": null,
+      "length_seconds": 252,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] RDS Read Replicas vs. Multi-AZ",
+      "description": null,
+      "learning_order": 150,
+      "size_mb": null,
+      "length_seconds": 442,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon Aurora - Extras",
+      "description": null,
+      "learning_order": 151,
+      "size_mb": null,
+      "length_seconds": 248,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] ElastiCache - Overview",
+      "description": null,
+      "learning_order": 152,
+      "size_mb": null,
+      "length_seconds": 261,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] ElastiCache - Hands On",
+      "description": null,
+      "learning_order": 153,
+      "size_mb": null,
+      "length_seconds": 310,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] ElastiCache - Redis Cluster Modes",
+      "description": null,
+      "learning_order": 154,
+      "size_mb": null,
+      "length_seconds": 338,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA] DynamoDB - Overview",
+      "description": null,
+      "learning_order": 155,
+      "size_mb": null,
+      "length_seconds": 321,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA] DynamoDB - Hands On",
+      "description": null,
+      "learning_order": 156,
+      "size_mb": null,
+      "length_seconds": 287,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA] DynamoDB - Advanced Features",
+      "description": null,
+      "learning_order": 157,
+      "size_mb": null,
+      "length_seconds": 514,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA] AWS DMS - Overview",
+      "description": null,
+      "learning_order": 158,
+      "size_mb": null,
+      "length_seconds": 314,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA] AWS DMS - Hands On",
+      "description": null,
+      "learning_order": 159,
+      "size_mb": null,
+      "length_seconds": 201,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS DMS - Monitoring",
+      "description": null,
+      "learning_order": 160,
+      "size_mb": null,
+      "length_seconds": 93,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Amazon S3 - Replication",
+      "description": null,
+      "learning_order": 161,
+      "size_mb": null,
+      "length_seconds": 85,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Amazon S3 - Replication Hands On",
+      "description": null,
+      "learning_order": 162,
+      "size_mb": null,
+      "length_seconds": 389,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Storage Gateway - Overview",
+      "description": null,
+      "learning_order": 163,
+      "size_mb": null,
+      "length_seconds": 158,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Storage Gateway - File Gateway Cache Refresh",
+      "description": null,
+      "learning_order": 164,
+      "size_mb": null,
+      "length_seconds": 96,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Auto Scaling Groups - Scaling Policies",
+      "description": null,
+      "learning_order": 165,
+      "size_mb": null,
+      "length_seconds": 263,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Auto Scaling Groups - Scaling Policies Hands On",
+      "description": null,
+      "learning_order": 166,
+      "size_mb": null,
+      "length_seconds": 555,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Auto Scaling Groups - Lifecycle Hooks",
+      "description": null,
+      "learning_order": 167,
+      "size_mb": null,
+      "length_seconds": 155,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Auto Scaling Groups - Event Notifications",
+      "description": null,
+      "learning_order": 168,
+      "size_mb": null,
+      "length_seconds": 100,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Auto Scaling Groups - Termination Policies",
+      "description": null,
+      "learning_order": 169,
+      "size_mb": null,
+      "length_seconds": 183,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Auto Scaling Groups - Warm Pools",
+      "description": null,
+      "learning_order": 170,
+      "size_mb": null,
+      "length_seconds": 594,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Application Auto Scaling - Overview",
+      "description": null,
+      "learning_order": 171,
+      "size_mb": null,
+      "length_seconds": 90,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] Elastic Load Balancer - ALB Rules Deep Dive",
+      "description": null,
+      "learning_order": 172,
+      "size_mb": null,
+      "length_seconds": 160,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Elastic Load Balancer - Extras",
+      "description": null,
+      "learning_order": 173,
+      "size_mb": null,
+      "length_seconds": 174,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/SOA] NAT Gateway",
+      "description": null,
+      "learning_order": 174,
+      "size_mb": null,
+      "length_seconds": 227,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Multi-AZ Architectures",
+      "description": null,
+      "learning_order": 175,
+      "size_mb": null,
+      "length_seconds": 145,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Blue-Green Architectures",
+      "description": null,
+      "learning_order": 176,
+      "size_mb": null,
+      "length_seconds": 165,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Multi-Region Architectures",
+      "description": null,
+      "learning_order": 177,
+      "size_mb": null,
+      "length_seconds": 174,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA] Disaster Recovery in AWS",
+      "description": null,
+      "learning_order": 178,
+      "size_mb": null,
+      "length_seconds": 690,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA] CloudWatch Metrics",
+      "description": null,
+      "learning_order": 179,
+      "size_mb": null,
+      "length_seconds": 249,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudWatch Custom Metrics",
+      "description": null,
+      "learning_order": 180,
+      "size_mb": null,
+      "length_seconds": 243,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CloudWatch Anomaly Detection",
+      "description": null,
+      "learning_order": 181,
+      "size_mb": null,
+      "length_seconds": 63,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon Lookout for Metrics",
+      "description": null,
+      "learning_order": 182,
+      "size_mb": null,
+      "length_seconds": 76,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] CloudWatch Logs - Overview",
+      "description": null,
+      "learning_order": 183,
+      "size_mb": null,
+      "length_seconds": 361,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] CloudWatch Logs - Hands On",
+      "description": null,
+      "learning_order": 184,
+      "size_mb": null,
+      "length_seconds": 309,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] CloudWatch Logs - Live Tail - Hands On",
+      "description": null,
+      "learning_order": 185,
+      "size_mb": null,
+      "length_seconds": 120,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CloudWatch Logs - Metric Filters",
+      "description": null,
+      "learning_order": 186,
+      "size_mb": null,
+      "length_seconds": 72,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] CloudWatch Logs - Metric Filters Hands On",
+      "description": null,
+      "learning_order": 187,
+      "size_mb": null,
+      "length_seconds": 266,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "All Kinds of Logs",
+      "description": null,
+      "learning_order": 188,
+      "size_mb": null,
+      "length_seconds": 281,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA] CloudWatch Agent & CloudWatch Logs Agent",
+      "description": null,
+      "learning_order": 189,
+      "size_mb": null,
+      "length_seconds": 196,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] CloudWatch Alarms - Overview",
+      "description": null,
+      "learning_order": 190,
+      "size_mb": null,
+      "length_seconds": 241,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] CloudWatch Alarms - Hands On",
+      "description": null,
+      "learning_order": 191,
+      "size_mb": null,
+      "length_seconds": 278,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA/SOA] CloudWatch Synthetics",
+      "description": null,
+      "learning_order": 192,
+      "size_mb": null,
+      "length_seconds": 174,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Amazon Athena - Overview",
+      "description": null,
+      "learning_order": 193,
+      "size_mb": null,
+      "length_seconds": 327,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Amazon Athena - Hands On",
+      "description": null,
+      "learning_order": 194,
+      "size_mb": null,
+      "length_seconds": 316,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] EventBridge - Overview",
+      "description": null,
+      "learning_order": 195,
+      "size_mb": null,
+      "length_seconds": 419,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] EventBridge - Hands On",
+      "description": null,
+      "learning_order": 196,
+      "size_mb": null,
+      "length_seconds": 431,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] EventBridge - Content Filtering Hands On",
+      "description": null,
+      "learning_order": 197,
+      "size_mb": null,
+      "length_seconds": 351,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] EventBridge - Input Transformation Hands On",
+      "description": null,
+      "learning_order": 198,
+      "size_mb": null,
+      "length_seconds": 399,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Amazon S3 - Event Notifications",
+      "description": null,
+      "learning_order": 199,
+      "size_mb": null,
+      "length_seconds": 210,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] Amazon S3 - Event Notifications Hands On",
+      "description": null,
+      "learning_order": 200,
+      "size_mb": null,
+      "length_seconds": 342,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon S3 - Object Integrity",
+      "description": null,
+      "learning_order": 201,
+      "size_mb": null,
+      "length_seconds": 122,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] AWS Health Dashboard - Overview",
+      "description": null,
+      "learning_order": 202,
+      "size_mb": null,
+      "length_seconds": 118,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] AWS Health Dashboard - Hands On",
+      "description": null,
+      "learning_order": 203,
+      "size_mb": null,
+      "length_seconds": 142,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] AWS Health Dashboard - Events & Notifications",
+      "description": null,
+      "learning_order": 204,
+      "size_mb": null,
+      "length_seconds": 108,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] EC2 Instance Status Checks - Overview",
+      "description": null,
+      "learning_order": 205,
+      "size_mb": null,
+      "length_seconds": 249,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] EC2 Instance Status Checks - Hands On",
+      "description": null,
+      "learning_order": 206,
+      "size_mb": null,
+      "length_seconds": 353,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] CloudTrail - Overview",
+      "description": null,
+      "learning_order": 207,
+      "size_mb": null,
+      "length_seconds": 342,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] CloudTrail - Hands On",
+      "description": null,
+      "learning_order": 208,
+      "size_mb": null,
+      "length_seconds": 90,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/DVA/SOA] CloudTrail - EventBridge Integration",
+      "description": null,
+      "learning_order": 209,
+      "size_mb": null,
+      "length_seconds": 98,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] SQS - Dead Letter Queues",
+      "description": null,
+      "learning_order": 210,
+      "size_mb": null,
+      "length_seconds": 166,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] SQS - Dead Letter Queues - Hands On",
+      "description": null,
+      "learning_order": 211,
+      "size_mb": null,
+      "length_seconds": 226,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SNS - Redrive Policy",
+      "description": null,
+      "learning_order": 212,
+      "size_mb": null,
+      "length_seconds": 63,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS X-Ray",
+      "description": null,
+      "learning_order": 213,
+      "size_mb": null,
+      "length_seconds": 87,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] AWS X-Ray with Beanstalk",
+      "description": null,
+      "learning_order": 214,
+      "size_mb": null,
+      "length_seconds": 191,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[DVA] AWS Distro for OpenTelemetry",
+      "description": null,
+      "learning_order": 215,
+      "size_mb": null,
+      "length_seconds": 160,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/SOA] AWS Config - Overview",
+      "description": null,
+      "learning_order": 216,
+      "size_mb": null,
+      "length_seconds": 284,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/SOA] AWS Config - Hands On",
+      "description": null,
+      "learning_order": 217,
+      "size_mb": null,
+      "length_seconds": 577,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Config - Configurations Recorder and Aggregator",
+      "description": null,
+      "learning_order": 218,
+      "size_mb": null,
+      "length_seconds": 159,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Config - Conformance Packs",
+      "description": null,
+      "learning_order": 219,
+      "size_mb": null,
+      "length_seconds": 152,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Config - Organizational Rules",
+      "description": null,
+      "learning_order": 220,
+      "size_mb": null,
+      "length_seconds": 92,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Organizations - Overview",
+      "description": null,
+      "learning_order": 221,
+      "size_mb": null,
+      "length_seconds": 388,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Organizations - Service Control Policies (SCPs)",
+      "description": null,
+      "learning_order": 222,
+      "size_mb": null,
+      "length_seconds": 170,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Control Tower - Overview",
+      "description": null,
+      "learning_order": 223,
+      "size_mb": null,
+      "length_seconds": 229,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] AWS Control Tower - Hands On",
+      "description": null,
+      "learning_order": 224,
+      "size_mb": null,
+      "length_seconds": 427,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Control Tower - Landing Zones",
+      "description": null,
+      "learning_order": 225,
+      "size_mb": null,
+      "length_seconds": 105,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Control Tower - Account Factory & Migrating Accounts",
+      "description": null,
+      "learning_order": 226,
+      "size_mb": null,
+      "length_seconds": 190,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Customizations for AWS Control Tower (CfCT)",
+      "description": null,
+      "learning_order": 227,
+      "size_mb": null,
+      "length_seconds": 167,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Control Tower - Config Integration",
+      "description": null,
+      "learning_order": 228,
+      "size_mb": null,
+      "length_seconds": 96,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Control Tower - Account Factory for Terraform",
+      "description": null,
+      "learning_order": 229,
+      "size_mb": null,
+      "length_seconds": 113,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/SOA] IAM Identity Center - Overview",
+      "description": null,
+      "learning_order": 230,
+      "size_mb": null,
+      "length_seconds": 406,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "IAM Identity Center - Extras",
+      "description": null,
+      "learning_order": 231,
+      "size_mb": null,
+      "length_seconds": 268,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Web Application Firewall (AWS WAF)",
+      "description": null,
+      "learning_order": 232,
+      "size_mb": null,
+      "length_seconds": 372,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA] AWS Firewall Manager - Overview",
+      "description": null,
+      "learning_order": 233,
+      "size_mb": null,
+      "length_seconds": 162,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Firewall Manager - Policies",
+      "description": null,
+      "learning_order": 234,
+      "size_mb": null,
+      "length_seconds": 114,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/SOA] Amazon GuardDuty - Overview",
+      "description": null,
+      "learning_order": 235,
+      "size_mb": null,
+      "length_seconds": 152,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon GuardDuty - Advanced",
+      "description": null,
+      "learning_order": 236,
+      "size_mb": null,
+      "length_seconds": 436,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon GuardDuty - CloudFormation Integration",
+      "description": null,
+      "learning_order": 237,
+      "size_mb": null,
+      "length_seconds": 53,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon Detective",
+      "description": null,
+      "learning_order": 238,
+      "size_mb": null,
+      "length_seconds": 69,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/SOA] Amazon Inspector - Overview",
+      "description": null,
+      "learning_order": 239,
+      "size_mb": null,
+      "length_seconds": 148,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] Amazon Inspector - Hands On",
+      "description": null,
+      "learning_order": 240,
+      "size_mb": null,
+      "length_seconds": 373,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon Inspector - EC2 Setup",
+      "description": null,
+      "learning_order": 241,
+      "size_mb": null,
+      "length_seconds": 61,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SOA] EC2 Instance Migration using AMIs",
+      "description": null,
+      "learning_order": 242,
+      "size_mb": null,
+      "length_seconds": 305,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA/SOA] AWS Trusted Advisor - Overview",
+      "description": null,
+      "learning_order": 243,
+      "size_mb": null,
+      "length_seconds": 198,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Trusted Advisor - Architectures",
+      "description": null,
+      "learning_order": 244,
+      "size_mb": null,
+      "length_seconds": 69,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Secrets Manager",
+      "description": null,
+      "learning_order": 245,
+      "size_mb": null,
+      "length_seconds": 130,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Secrets Manager - Hands On",
+      "description": null,
+      "learning_order": 246,
+      "size_mb": null,
+      "length_seconds": 240,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Tag Editor",
+      "description": null,
+      "learning_order": 247,
+      "size_mb": null,
+      "length_seconds": 26,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon QuickSight",
+      "description": null,
+      "learning_order": 248,
+      "size_mb": null,
+      "length_seconds": 56,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "[SAA] AWS Glue",
+      "description": null,
+      "learning_order": 249,
+      "size_mb": null,
+      "length_seconds": 271,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Save 50% on your AWS Certified DevOps Engineer Professional Exam Cost!",
+      "description": null,
+      "learning_order": 250,
+      "size_mb": null,
+      "length_seconds": 101,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Get an Extra 30 Minutes on your AWS Exam - Non Native English Speakers only",
+      "description": null,
+      "learning_order": 251,
+      "size_mb": null,
+      "length_seconds": 69,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Next Steps - AWS Certified DevOps Engineer Professional",
+      "description": null,
+      "learning_order": 252,
+      "size_mb": null,
+      "length_seconds": 85,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Bonus Practice Exam (10 questions)",
+      "description": null,
+      "learning_order": 253,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Certification Paths",
+      "description": null,
+      "learning_order": 254,
+      "size_mb": null,
+      "length_seconds": 281,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "THANK YOU!",
+      "description": null,
+      "learning_order": 255,
+      "size_mb": null,
+      "length_seconds": 92,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Bonus Lecture",
+      "description": null,
+      "learning_order": 256,
+      "material_type": "READING"
+    }
+  ]
+}

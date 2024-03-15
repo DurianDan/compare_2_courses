@@ -1,0 +1,1934 @@
+{
+  "landing_page": "https://www.udemy.com/course/aws-solutions-architect-professional/",
+  "title": "Ultimate AWS Certified Solutions Architect Professional 2024",
+  "learning_platform": {
+    "landing_page": "https://udemy.com/",
+    "name": "Udemy"
+  },
+  "materials": [
+    {
+      "material_url": null,
+      "title": "Course Introduction - Please Watch",
+      "description": null,
+      "learning_order": 1,
+      "size_mb": null,
+      "length_seconds": 235,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Course Expectations Quiz",
+      "description": null,
+      "learning_order": 2,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "About your instructor",
+      "description": null,
+      "learning_order": 3,
+      "size_mb": null,
+      "length_seconds": 165,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Slides Download",
+      "description": null,
+      "learning_order": 4,
+      "material_type": "READING"
+    },
+    {
+      "material_url": null,
+      "title": "IAM",
+      "description": null,
+      "learning_order": 5,
+      "size_mb": null,
+      "length_seconds": 801,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "IAM Access Analyzer",
+      "description": null,
+      "learning_order": 6,
+      "size_mb": null,
+      "length_seconds": 156,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "STS",
+      "description": null,
+      "learning_order": 7,
+      "size_mb": null,
+      "length_seconds": 747,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Identity Federation & Cognito",
+      "description": null,
+      "learning_order": 8,
+      "size_mb": null,
+      "length_seconds": 532,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Directory Services",
+      "description": null,
+      "learning_order": 9,
+      "size_mb": null,
+      "length_seconds": 790,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Organizations",
+      "description": null,
+      "learning_order": 10,
+      "size_mb": null,
+      "length_seconds": 388,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Organizations Policies",
+      "description": null,
+      "learning_order": 11,
+      "size_mb": null,
+      "length_seconds": 607,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS IAM Identity Center",
+      "description": null,
+      "learning_order": 12,
+      "size_mb": null,
+      "length_seconds": 406,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Control Tower",
+      "description": null,
+      "learning_order": 13,
+      "size_mb": null,
+      "length_seconds": 229,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Resource Access Manager - RAM",
+      "description": null,
+      "learning_order": 14,
+      "size_mb": null,
+      "length_seconds": 308,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Summary of Identity & Federation",
+      "description": null,
+      "learning_order": 15,
+      "size_mb": null,
+      "length_seconds": 141,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Identity & Federation Quiz",
+      "description": null,
+      "learning_order": 16,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "CloudTrail",
+      "description": null,
+      "learning_order": 17,
+      "size_mb": null,
+      "length_seconds": 342,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CloudTrail - EventBridge Integration",
+      "description": null,
+      "learning_order": 18,
+      "size_mb": null,
+      "length_seconds": 98,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CloudTrail - SA Pro",
+      "description": null,
+      "learning_order": 19,
+      "size_mb": null,
+      "length_seconds": 445,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "KMS",
+      "description": null,
+      "learning_order": 20,
+      "size_mb": null,
+      "length_seconds": 491,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Parameter Store",
+      "description": null,
+      "learning_order": 21,
+      "size_mb": null,
+      "length_seconds": 256,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Secrets Manager",
+      "description": null,
+      "learning_order": 22,
+      "size_mb": null,
+      "length_seconds": 331,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "RDS Security",
+      "description": null,
+      "learning_order": 23,
+      "size_mb": null,
+      "length_seconds": 77,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SSL Encryption, SNI & MITM",
+      "description": null,
+      "learning_order": 24,
+      "size_mb": null,
+      "length_seconds": 458,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Certificate Manager - ACM",
+      "description": null,
+      "learning_order": 25,
+      "size_mb": null,
+      "length_seconds": 213,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CloudHSM",
+      "description": null,
+      "learning_order": 26,
+      "size_mb": null,
+      "length_seconds": 309,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Solution Architecture - SSL on ELB",
+      "description": null,
+      "learning_order": 27,
+      "size_mb": null,
+      "length_seconds": 190,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "S3 Security",
+      "description": null,
+      "learning_order": 28,
+      "size_mb": null,
+      "length_seconds": 615,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "S3 Access Points",
+      "description": null,
+      "learning_order": 29,
+      "size_mb": null,
+      "length_seconds": 214,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "S3 Multi-Region Access Points",
+      "description": null,
+      "learning_order": 30,
+      "size_mb": null,
+      "length_seconds": 160,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "S3 Multi-Region Access Points - Hands On",
+      "description": null,
+      "learning_order": 31,
+      "size_mb": null,
+      "length_seconds": 223,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "S3 Object Lambda",
+      "description": null,
+      "learning_order": 32,
+      "size_mb": null,
+      "length_seconds": 190,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "DDoS and AWS Shield",
+      "description": null,
+      "learning_order": 33,
+      "size_mb": null,
+      "length_seconds": 359,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS WAF - Web Application Firewall",
+      "description": null,
+      "learning_order": 34,
+      "size_mb": null,
+      "length_seconds": 372,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Firewall Manager",
+      "description": null,
+      "learning_order": 35,
+      "size_mb": null,
+      "length_seconds": 162,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Blocking an IP Address",
+      "description": null,
+      "learning_order": 36,
+      "size_mb": null,
+      "length_seconds": 329,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon Inspector",
+      "description": null,
+      "learning_order": 37,
+      "size_mb": null,
+      "length_seconds": 148,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Config",
+      "description": null,
+      "learning_order": 38,
+      "size_mb": null,
+      "length_seconds": 261,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Managed Logs",
+      "description": null,
+      "learning_order": 39,
+      "size_mb": null,
+      "length_seconds": 84,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon GuardDuty",
+      "description": null,
+      "learning_order": 40,
+      "size_mb": null,
+      "length_seconds": 197,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "IAM Advanced Policies",
+      "description": null,
+      "learning_order": 41,
+      "size_mb": null,
+      "length_seconds": 256,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "EC2 Instance Connect",
+      "description": null,
+      "learning_order": 42,
+      "size_mb": null,
+      "length_seconds": 107,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Security Hub",
+      "description": null,
+      "learning_order": 43,
+      "size_mb": null,
+      "length_seconds": 163,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon Detective",
+      "description": null,
+      "learning_order": 44,
+      "size_mb": null,
+      "length_seconds": 69,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Security Quiz",
+      "description": null,
+      "learning_order": 45,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "Solution Architecture on AWS",
+      "description": null,
+      "learning_order": 46,
+      "size_mb": null,
+      "length_seconds": 264,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "EC2",
+      "description": null,
+      "learning_order": 47,
+      "size_mb": null,
+      "length_seconds": 611,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "High Performance Computing (HPC)",
+      "description": null,
+      "learning_order": 48,
+      "size_mb": null,
+      "length_seconds": 384,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Auto Scaling",
+      "description": null,
+      "learning_order": 49,
+      "size_mb": null,
+      "length_seconds": 458,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Auto Scaling Update Strategies",
+      "description": null,
+      "learning_order": 50,
+      "size_mb": null,
+      "length_seconds": 326,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Spot Instances & Spot Fleet",
+      "description": null,
+      "learning_order": 51,
+      "size_mb": null,
+      "length_seconds": 375,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon ECS - Elastic Container Service",
+      "description": null,
+      "learning_order": 52,
+      "size_mb": null,
+      "length_seconds": 651,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon ECR - Elastic Container Registry",
+      "description": null,
+      "learning_order": 53,
+      "size_mb": null,
+      "length_seconds": 185,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon EKS - Elastic Kubernetes Service",
+      "description": null,
+      "learning_order": 54,
+      "size_mb": null,
+      "length_seconds": 238,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS App Runner",
+      "description": null,
+      "learning_order": 55,
+      "size_mb": null,
+      "length_seconds": 159,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "ECS Anywhere & EKS Anywhere",
+      "description": null,
+      "learning_order": 56,
+      "size_mb": null,
+      "length_seconds": 229,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Lambda - Part 1",
+      "description": null,
+      "learning_order": 57,
+      "size_mb": null,
+      "length_seconds": 383,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Lambda - Part 2",
+      "description": null,
+      "learning_order": 58,
+      "size_mb": null,
+      "length_seconds": 404,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Elastic Load Balancers - Part 1",
+      "description": null,
+      "learning_order": 59,
+      "size_mb": null,
+      "length_seconds": 535,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Elastic Load Balancers - Part 2",
+      "description": null,
+      "learning_order": 60,
+      "size_mb": null,
+      "length_seconds": 424,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "API Gateway",
+      "description": null,
+      "learning_order": 61,
+      "size_mb": null,
+      "length_seconds": 767,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "API Gateway - Part 2",
+      "description": null,
+      "learning_order": 62,
+      "size_mb": null,
+      "length_seconds": 278,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS AppSync",
+      "description": null,
+      "learning_order": 63,
+      "size_mb": null,
+      "length_seconds": 169,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Route 53 - Part 1",
+      "description": null,
+      "learning_order": 64,
+      "size_mb": null,
+      "length_seconds": 695,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Route 53 - Part 2",
+      "description": null,
+      "learning_order": 65,
+      "size_mb": null,
+      "length_seconds": 336,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Route 53 - Resolvers & Hybrid DNS",
+      "description": null,
+      "learning_order": 66,
+      "size_mb": null,
+      "length_seconds": 430,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Global Accelerator",
+      "description": null,
+      "learning_order": 67,
+      "size_mb": null,
+      "length_seconds": 194,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Comparison of Solutions Architecture",
+      "description": null,
+      "learning_order": 68,
+      "size_mb": null,
+      "length_seconds": 631,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Outposts",
+      "description": null,
+      "learning_order": 69,
+      "size_mb": null,
+      "length_seconds": 222,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS WaveLength",
+      "description": null,
+      "learning_order": 70,
+      "size_mb": null,
+      "length_seconds": 116,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Local Zones",
+      "description": null,
+      "learning_order": 71,
+      "size_mb": null,
+      "length_seconds": 233,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Compute & Load Balancing Quiz",
+      "description": null,
+      "learning_order": 72,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "EBS & Local Instance Store",
+      "description": null,
+      "learning_order": 73,
+      "size_mb": null,
+      "length_seconds": 533,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon EFS",
+      "description": null,
+      "learning_order": 74,
+      "size_mb": null,
+      "length_seconds": 512,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon S3",
+      "description": null,
+      "learning_order": 75,
+      "size_mb": null,
+      "length_seconds": 684,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon S3 - Storage Class Analysis",
+      "description": null,
+      "learning_order": 76,
+      "size_mb": null,
+      "length_seconds": 77,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon S3 - Storage Lens",
+      "description": null,
+      "learning_order": 77,
+      "size_mb": null,
+      "length_seconds": 189,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "S3 Solution Architecture",
+      "description": null,
+      "learning_order": 78,
+      "size_mb": null,
+      "length_seconds": 342,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon FSx",
+      "description": null,
+      "learning_order": 79,
+      "size_mb": null,
+      "length_seconds": 502,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon FSx - Solution Architectures",
+      "description": null,
+      "learning_order": 80,
+      "size_mb": null,
+      "length_seconds": 187,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS DataSync",
+      "description": null,
+      "learning_order": 81,
+      "size_mb": null,
+      "length_seconds": 285,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS DataSync - Solution Architecture",
+      "description": null,
+      "learning_order": 82,
+      "size_mb": null,
+      "length_seconds": 51,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Data Exchange",
+      "description": null,
+      "learning_order": 83,
+      "size_mb": null,
+      "length_seconds": 129,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Transfer Family",
+      "description": null,
+      "learning_order": 84,
+      "size_mb": null,
+      "length_seconds": 274,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Storage Services Price Comparison",
+      "description": null,
+      "learning_order": 85,
+      "size_mb": null,
+      "length_seconds": 190,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Storage Quiz",
+      "description": null,
+      "learning_order": 86,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "CloudFront - Part 1",
+      "description": null,
+      "learning_order": 87,
+      "size_mb": null,
+      "length_seconds": 415,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CloudFront - Part 2",
+      "description": null,
+      "learning_order": 88,
+      "size_mb": null,
+      "length_seconds": 302,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Lambda@Edge and CloudFront Functions",
+      "description": null,
+      "learning_order": 89,
+      "size_mb": null,
+      "length_seconds": 599,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Lambda@Edge Reduce Latency",
+      "description": null,
+      "learning_order": 90,
+      "size_mb": null,
+      "length_seconds": 161,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon ElastiCache",
+      "description": null,
+      "learning_order": 91,
+      "size_mb": null,
+      "length_seconds": 309,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Handling Extreme Rates",
+      "description": null,
+      "learning_order": 92,
+      "size_mb": null,
+      "length_seconds": 325,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Caching Quiz",
+      "description": null,
+      "learning_order": 93,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "DynamoDB",
+      "description": null,
+      "learning_order": 94,
+      "size_mb": null,
+      "length_seconds": 720,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon OpenSearch",
+      "description": null,
+      "learning_order": 95,
+      "size_mb": null,
+      "length_seconds": 182,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "RDS",
+      "description": null,
+      "learning_order": 96,
+      "size_mb": null,
+      "length_seconds": 621,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Aurora - Part 1",
+      "description": null,
+      "learning_order": 97,
+      "size_mb": null,
+      "length_seconds": 440,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Aurora - Part 2",
+      "description": null,
+      "learning_order": 98,
+      "size_mb": null,
+      "length_seconds": 399,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Databases Quiz",
+      "description": null,
+      "learning_order": 99,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "Step Functions",
+      "description": null,
+      "learning_order": 100,
+      "size_mb": null,
+      "length_seconds": 576,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SQS",
+      "description": null,
+      "learning_order": 101,
+      "size_mb": null,
+      "length_seconds": 512,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon MQ",
+      "description": null,
+      "learning_order": 102,
+      "size_mb": null,
+      "length_seconds": 143,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon SNS",
+      "description": null,
+      "learning_order": 103,
+      "size_mb": null,
+      "length_seconds": 258,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon SNS - SQS Fan Out Pattern",
+      "description": null,
+      "learning_order": 104,
+      "size_mb": null,
+      "length_seconds": 356,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon SNS - Message Delivery Retries",
+      "description": null,
+      "learning_order": 105,
+      "size_mb": null,
+      "length_seconds": 176,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Service Communication Quiz",
+      "description": null,
+      "learning_order": 106,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "Kinesis Data Streams",
+      "description": null,
+      "learning_order": 107,
+      "size_mb": null,
+      "length_seconds": 458,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Kinesis Data Firehose",
+      "description": null,
+      "learning_order": 108,
+      "size_mb": null,
+      "length_seconds": 501,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Kinesis Data Analytics",
+      "description": null,
+      "learning_order": 109,
+      "size_mb": null,
+      "length_seconds": 174,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Streaming Architectures",
+      "description": null,
+      "learning_order": 110,
+      "size_mb": null,
+      "length_seconds": 498,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon MSK",
+      "description": null,
+      "learning_order": 111,
+      "size_mb": null,
+      "length_seconds": 230,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Batch",
+      "description": null,
+      "learning_order": 112,
+      "size_mb": null,
+      "length_seconds": 431,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon EMR",
+      "description": null,
+      "learning_order": 113,
+      "size_mb": null,
+      "length_seconds": 353,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Running Jobs on AWS",
+      "description": null,
+      "learning_order": 114,
+      "size_mb": null,
+      "length_seconds": 147,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Glue",
+      "description": null,
+      "learning_order": 115,
+      "size_mb": null,
+      "length_seconds": 95,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Redshift",
+      "description": null,
+      "learning_order": 116,
+      "size_mb": null,
+      "length_seconds": 516,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon DocumentDB",
+      "description": null,
+      "learning_order": 117,
+      "size_mb": null,
+      "length_seconds": 125,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon Timestream",
+      "description": null,
+      "learning_order": 118,
+      "size_mb": null,
+      "length_seconds": 137,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon Athena",
+      "description": null,
+      "learning_order": 119,
+      "size_mb": null,
+      "length_seconds": 327,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon QuickSight",
+      "description": null,
+      "learning_order": 120,
+      "size_mb": null,
+      "length_seconds": 239,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Big Data Architecture",
+      "description": null,
+      "learning_order": 121,
+      "size_mb": null,
+      "length_seconds": 256,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Data Engineering Quiz",
+      "description": null,
+      "learning_order": 122,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "CloudWatch",
+      "description": null,
+      "learning_order": 123,
+      "size_mb": null,
+      "length_seconds": 370,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CloudWatch Logs",
+      "description": null,
+      "learning_order": 124,
+      "size_mb": null,
+      "length_seconds": 492,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon EventBridge",
+      "description": null,
+      "learning_order": 125,
+      "size_mb": null,
+      "length_seconds": 419,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "X-Ray",
+      "description": null,
+      "learning_order": 126,
+      "size_mb": null,
+      "length_seconds": 87,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Personal Health Dashboard",
+      "description": null,
+      "learning_order": 127,
+      "size_mb": null,
+      "length_seconds": 344,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Monitoring Quiz",
+      "description": null,
+      "learning_order": 128,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "Elastic Beanstalk",
+      "description": null,
+      "learning_order": 129,
+      "size_mb": null,
+      "length_seconds": 434,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CodeDeploy",
+      "description": null,
+      "learning_order": 130,
+      "size_mb": null,
+      "length_seconds": 603,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CloudFormation",
+      "description": null,
+      "learning_order": 131,
+      "size_mb": null,
+      "length_seconds": 477,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Service Catalog",
+      "description": null,
+      "learning_order": 132,
+      "size_mb": null,
+      "length_seconds": 257,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SAM - Serverless Application Model",
+      "description": null,
+      "learning_order": 133,
+      "size_mb": null,
+      "length_seconds": 114,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS CDK - Cloud Development Kit",
+      "description": null,
+      "learning_order": 134,
+      "size_mb": null,
+      "length_seconds": 119,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Systems Manager - SSM",
+      "description": null,
+      "learning_order": 135,
+      "size_mb": null,
+      "length_seconds": 469,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Cloud Map",
+      "description": null,
+      "learning_order": 136,
+      "size_mb": null,
+      "length_seconds": 126,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Deployment and Instance Management Quiz",
+      "description": null,
+      "learning_order": 137,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "Cost Allocation Tags",
+      "description": null,
+      "learning_order": 138,
+      "size_mb": null,
+      "length_seconds": 80,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Tag Editor",
+      "description": null,
+      "learning_order": 139,
+      "size_mb": null,
+      "length_seconds": 26,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Trusted Advisor",
+      "description": null,
+      "learning_order": 140,
+      "size_mb": null,
+      "length_seconds": 264,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Service Quotas",
+      "description": null,
+      "learning_order": 141,
+      "size_mb": null,
+      "length_seconds": 68,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "EC2 Launch Types & Savings Plan",
+      "description": null,
+      "learning_order": 142,
+      "size_mb": null,
+      "length_seconds": 184,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "S3 Cost Savings",
+      "description": null,
+      "learning_order": 143,
+      "size_mb": null,
+      "length_seconds": 257,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "S3 Storage Classes - Reminder",
+      "description": null,
+      "learning_order": 144,
+      "size_mb": null,
+      "length_seconds": 372,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Budgets & Cost Explorer",
+      "description": null,
+      "learning_order": 145,
+      "size_mb": null,
+      "length_seconds": 342,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Compute Optimizer",
+      "description": null,
+      "learning_order": 146,
+      "size_mb": null,
+      "length_seconds": 95,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "EC2 Reserved Instance",
+      "description": null,
+      "learning_order": 147,
+      "size_mb": null,
+      "length_seconds": 67,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Cost Control Quiz",
+      "description": null,
+      "learning_order": 148,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "Cloud Migrations - The 6R",
+      "description": null,
+      "learning_order": 149,
+      "size_mb": null,
+      "length_seconds": 393,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Storage Gateway",
+      "description": null,
+      "learning_order": 150,
+      "size_mb": null,
+      "length_seconds": 622,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Storage Gateway - Advanced Concepts",
+      "description": null,
+      "learning_order": 151,
+      "size_mb": null,
+      "length_seconds": 274,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Snow Family",
+      "description": null,
+      "learning_order": 152,
+      "size_mb": null,
+      "length_seconds": 638,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Snow Family - Improving Performance",
+      "description": null,
+      "learning_order": 153,
+      "size_mb": null,
+      "length_seconds": 76,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS DMS - Database Migration Services",
+      "description": null,
+      "learning_order": 154,
+      "size_mb": null,
+      "length_seconds": 371,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS CART - Cloud Adoption Readiness Tool",
+      "description": null,
+      "learning_order": 155,
+      "size_mb": null,
+      "length_seconds": 50,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Disaster Recovery",
+      "description": null,
+      "learning_order": 156,
+      "size_mb": null,
+      "length_seconds": 690,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS FIS - Fault Injection Simulator",
+      "description": null,
+      "learning_order": 157,
+      "size_mb": null,
+      "length_seconds": 115,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "VM Migrations Services",
+      "description": null,
+      "learning_order": 158,
+      "size_mb": null,
+      "length_seconds": 425,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Migration Evaluator",
+      "description": null,
+      "learning_order": 159,
+      "size_mb": null,
+      "length_seconds": 83,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Backup",
+      "description": null,
+      "learning_order": 160,
+      "size_mb": null,
+      "length_seconds": 190,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Migration Quiz",
+      "description": null,
+      "learning_order": 161,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "VPC - Basics",
+      "description": null,
+      "learning_order": 162,
+      "size_mb": null,
+      "length_seconds": 755,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "VPC Peering",
+      "description": null,
+      "learning_order": 163,
+      "size_mb": null,
+      "length_seconds": 437,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Transit Gateway",
+      "description": null,
+      "learning_order": 164,
+      "size_mb": null,
+      "length_seconds": 580,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "VPC Endpoints",
+      "description": null,
+      "learning_order": 165,
+      "size_mb": null,
+      "length_seconds": 338,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "VPC Endpoint Policies",
+      "description": null,
+      "learning_order": 166,
+      "size_mb": null,
+      "length_seconds": 398,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "PrivateLink",
+      "description": null,
+      "learning_order": 167,
+      "size_mb": null,
+      "length_seconds": 266,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS S2S VPN",
+      "description": null,
+      "learning_order": 168,
+      "size_mb": null,
+      "length_seconds": 682,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Client VPN",
+      "description": null,
+      "learning_order": 169,
+      "size_mb": null,
+      "length_seconds": 178,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Direct Connect",
+      "description": null,
+      "learning_order": 170,
+      "size_mb": null,
+      "length_seconds": 387,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "On-Premise Redundant Connections",
+      "description": null,
+      "learning_order": 171,
+      "size_mb": null,
+      "length_seconds": 147,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "VPC Flow Logs",
+      "description": null,
+      "learning_order": 172,
+      "size_mb": null,
+      "length_seconds": 361,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Network Firewall",
+      "description": null,
+      "learning_order": 173,
+      "size_mb": null,
+      "length_seconds": 330,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "VPC Quiz",
+      "description": null,
+      "learning_order": 174,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "Rekognition Overview",
+      "description": null,
+      "learning_order": 175,
+      "size_mb": null,
+      "length_seconds": 226,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Transcribe Overview",
+      "description": null,
+      "learning_order": 176,
+      "size_mb": null,
+      "length_seconds": 176,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Polly Overview",
+      "description": null,
+      "learning_order": 177,
+      "size_mb": null,
+      "length_seconds": 252,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Translate Overview",
+      "description": null,
+      "learning_order": 178,
+      "size_mb": null,
+      "length_seconds": 35,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Lex + Connect Overview",
+      "description": null,
+      "learning_order": 179,
+      "size_mb": null,
+      "length_seconds": 115,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Comprehend Overview",
+      "description": null,
+      "learning_order": 180,
+      "size_mb": null,
+      "length_seconds": 108,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Comprehend Medical Overview",
+      "description": null,
+      "learning_order": 181,
+      "size_mb": null,
+      "length_seconds": 124,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "SageMaker Overview",
+      "description": null,
+      "learning_order": 182,
+      "size_mb": null,
+      "length_seconds": 209,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Forecast Overview",
+      "description": null,
+      "learning_order": 183,
+      "size_mb": null,
+      "length_seconds": 59,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Kendra Overview",
+      "description": null,
+      "learning_order": 184,
+      "size_mb": null,
+      "length_seconds": 82,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Personalize Overview",
+      "description": null,
+      "learning_order": 185,
+      "size_mb": null,
+      "length_seconds": 96,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Textract Overview",
+      "description": null,
+      "learning_order": 186,
+      "size_mb": null,
+      "length_seconds": 56,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Machine Learning Summary",
+      "description": null,
+      "learning_order": 187,
+      "size_mb": null,
+      "length_seconds": 69,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Machine Learning Quiz",
+      "description": null,
+      "learning_order": 188,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "Other Services",
+      "description": null,
+      "learning_order": 189,
+      "size_mb": null,
+      "length_seconds": 27,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "CICD",
+      "description": null,
+      "learning_order": 190,
+      "size_mb": null,
+      "length_seconds": 524,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon CodeGuru",
+      "description": null,
+      "learning_order": 191,
+      "size_mb": null,
+      "length_seconds": 202,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Alexa for Business, Lex & Connect",
+      "description": null,
+      "learning_order": 192,
+      "size_mb": null,
+      "length_seconds": 131,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Kinesis Video Streams",
+      "description": null,
+      "learning_order": 193,
+      "size_mb": null,
+      "length_seconds": 132,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS WorkSpaces",
+      "description": null,
+      "learning_order": 194,
+      "size_mb": null,
+      "length_seconds": 350,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon AppStream 2.0",
+      "description": null,
+      "learning_order": 195,
+      "size_mb": null,
+      "length_seconds": 124,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Device Farm",
+      "description": null,
+      "learning_order": 196,
+      "size_mb": null,
+      "length_seconds": 85,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon Macie",
+      "description": null,
+      "learning_order": 197,
+      "size_mb": null,
+      "length_seconds": 63,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon SES",
+      "description": null,
+      "learning_order": 198,
+      "size_mb": null,
+      "length_seconds": 168,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Amazon Pinpoint",
+      "description": null,
+      "learning_order": 199,
+      "size_mb": null,
+      "length_seconds": 112,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "EC2 Image Builder",
+      "description": null,
+      "learning_order": 200,
+      "size_mb": null,
+      "length_seconds": 186,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS IoT Core",
+      "description": null,
+      "learning_order": 201,
+      "size_mb": null,
+      "length_seconds": 120,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Other Services Summary",
+      "description": null,
+      "learning_order": 202,
+      "material_type": "READING"
+    },
+    {
+      "material_url": null,
+      "title": "Other Services Quiz",
+      "description": null,
+      "learning_order": 203,
+      "material_type": "TEST"
+    },
+    {
+      "material_url": null,
+      "title": "Exam Guide & Sample Questions",
+      "description": null,
+      "learning_order": 204,
+      "size_mb": null,
+      "length_seconds": 132,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Sample Question 1",
+      "description": null,
+      "learning_order": 205,
+      "size_mb": null,
+      "length_seconds": 409,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Sample Question 2",
+      "description": null,
+      "learning_order": 206,
+      "size_mb": null,
+      "length_seconds": 397,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Sample Question 3",
+      "description": null,
+      "learning_order": 207,
+      "size_mb": null,
+      "length_seconds": 343,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Sample Question 4",
+      "description": null,
+      "learning_order": 208,
+      "size_mb": null,
+      "length_seconds": 432,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Sample Question 5",
+      "description": null,
+      "learning_order": 209,
+      "size_mb": null,
+      "length_seconds": 347,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Sample Question 6",
+      "description": null,
+      "learning_order": 210,
+      "size_mb": null,
+      "length_seconds": 312,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Sample Question 7",
+      "description": null,
+      "learning_order": 211,
+      "size_mb": null,
+      "length_seconds": 420,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Sample Question 8",
+      "description": null,
+      "learning_order": 212,
+      "size_mb": null,
+      "length_seconds": 375,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Sample Question 9",
+      "description": null,
+      "learning_order": 213,
+      "size_mb": null,
+      "length_seconds": 301,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Sample Question 10",
+      "description": null,
+      "learning_order": 214,
+      "size_mb": null,
+      "length_seconds": 186,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "AWS Certification Paths",
+      "description": null,
+      "learning_order": 215,
+      "size_mb": null,
+      "length_seconds": 281,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Congratulations",
+      "description": null,
+      "learning_order": 216,
+      "size_mb": null,
+      "length_seconds": 60,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "THANK YOU!",
+      "description": null,
+      "learning_order": 217,
+      "size_mb": null,
+      "length_seconds": 92,
+      "material_type": "VIDEO"
+    },
+    {
+      "material_url": null,
+      "title": "Bonus Lecture",
+      "description": null,
+      "learning_order": 218,
+      "material_type": "READING"
+    }
+  ]
+}
