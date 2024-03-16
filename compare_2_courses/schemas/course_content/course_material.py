@@ -21,7 +21,7 @@ class CourseMaterial(BaseModel):
 
 
     def same_title(self, title1: str, title2: str) -> bool:
-        return similarity(title1, title2) >= 0.8
+        return similarity(title1, title2) >= 0.6
 
     def is_same(self, other_material: "CourseMaterial") -> bool:
         if self.material_type != other_material.material_type:
