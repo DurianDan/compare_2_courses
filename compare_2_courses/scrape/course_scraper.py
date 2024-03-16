@@ -1,9 +1,5 @@
-from typing import List, Literal
+from typing import List
 from abc import ABC, abstractmethod
-
-from compare_2_courses.schemas.course_content.video import CourseVideo
-from compare_2_courses.schemas.course_content.reading import CourseReading
-from compare_2_courses.schemas.course_content.test import CourseTest
 from compare_2_courses.schemas.course_content.course_material import CourseMaterial, COURSE_MATERIAL_TYPE
 from compare_2_courses.schemas.learning_platform import LearningPlatform
 

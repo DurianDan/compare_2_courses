@@ -1,8 +1,5 @@
-from compare_2_courses.schemas.course_content.course_material import CourseMaterial
+from compare_2_courses.schemas.course_content.course_material import CourseMaterial, COURSE_MATERIAL_TYPE
 from typing import Any, Dict
 
 class CourseTest(CourseMaterial):
-    def to_json(self) -> Dict[str, Any]:
-        out = super().to_json()
-        out['material_type'] = "TEST"
-        return out
+    material_type: COURSE_MATERIAL_TYPE = "TEST"

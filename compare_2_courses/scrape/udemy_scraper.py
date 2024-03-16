@@ -1,13 +1,14 @@
 from compare_2_courses.schemas.course import Course
-from compare_2_courses.scrape.course_scraper import (
-    CoursePlatformScraper,
+from compare_2_courses.schemas.course_content import (
     CourseReading,
     CourseVideo,
     CourseTest,
     CourseMaterial,
+    CourseLab,
     COURSE_MATERIAL_TYPE,
 )
 from compare_2_courses.scrape.scraper_config import ScraperConfig
+from compare_2_courses.scrape.course_scraper import CoursePlatformScraper
 from compare_2_courses.constants import UDEMY_LEARNING_PLATFORM
 
 import time
@@ -38,7 +39,7 @@ class UdemyScraper(CoursePlatformScraper):
     def get_course_materials_elements(self) -> List[WebElement]:
         return self.driver.find_elements(
             By.XPATH,
-            '//*[@id="main-content-anchor"]/div[5]/div/div[4]/div/div[2]/div[*]/div[2]/div/ul/li[*]/div',
+            '//div[@data-purpose="course-curriculum"]/div[2]/div[*]/div[2]/div/ul/li[*]/div',
         )
 
     def detect_material_type(
@@ -52,6 +53,7 @@ class UdemyScraper(CoursePlatformScraper):
             , '#icon-lightbulb-off': "TEST"
             , '#icon-quiz': "TEST"
             , '#icon-video': "VIDEO"
+            , "#icon-code": "LAB"
         }
         return icon_type_map.get(found_icon_type)
 
@@ -100,6 +102,14 @@ class UdemyScraper(CoursePlatformScraper):
         )
         return CourseReading(**dict(common_material))
     
+    def get_course_lab_from_element(
+        self, element: WebElement, learning_order: int
+    ) -> CourseLab:
+        common_material = self.get_material_common_info_from_element(
+            element, learning_order
+        )
+        return CourseLab(**dict(common_material))
+    
     def get_course_material_from_element(
         self, element: WebElement, learning_order: int
     ) -> Union[CourseReading,CourseTest, CourseVideo]:
@@ -107,7 +117,8 @@ class UdemyScraper(CoursePlatformScraper):
         material_extractor: Dict[COURSE_MATERIAL_TYPE, Any] = {
             "READING": self.get_course_reading_from_element,
             "TEST":self.get_course_test_from_element,
-            "VIDEO":self.get_course_video_from_element
+            "VIDEO":self.get_course_video_from_element,
+            "LAB":self.get_course_lab_from_element
         }
         return material_extractor[material_type](
             element, learning_order
